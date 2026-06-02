@@ -1,4 +1,4 @@
-﻿Size;Demand Seed;Customer Selection Seed;Instance Type;ALNS Obj;ALNS Time;Each result is an average value over 10 runs
+﻿Size;Demand Seed;Customer Selection Seed;Instance Type;ALPHA Obj;ALPHA Time;Each result is an average value over 10 runs
 30;1;1;Clustered;12042.22;7.166803646;
 30;1;2;Clustered;11809.48;7.225727892;
 30;1;3;Clustered;11693.26;7.154546046;
